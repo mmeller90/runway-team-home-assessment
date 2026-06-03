@@ -78,15 +78,19 @@ Frontend:
 
 ### Backend
 
+```
 cd backend
 npm install
 npm run start
+```
 
 ### Frontend
 
+```
 cd ui
 npm install
 npm run dev
+```
 
 ---
 
